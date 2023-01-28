@@ -6,10 +6,10 @@ RespFeatureExtractor is an open-source python package built to extract features 
 ## 2 Install 
 
 ````
-git clone https://github.com/MU-HPDI/RespHealthFeatureExtractor.git<br />
-cd RespHealthFeatureExtractor<br />
-python3 setup.py bdist_wheel<br />
-pip install ./dist/*<br />
+git clone https://github.com/MU-HPDI/RespHealthFeatureExtractor.git
+cd RespHealthFeatureExtractor
+python3 setup.py bdist_wheel
+pip install ./dist/*
 ````
 
 ## 3 Usage
