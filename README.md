@@ -14,5 +14,5 @@ pip install ./dist/*
 
 ## 3 Usage
 ````
-For usage please refer to the [`Example.ipynb`](https://github.com/MU-HPDI/RespHealthFeatureExtractor/blob/main/Example/Example.ipynb) Jupyter notebook under Example folder.
+For usage please refer to the [Example.ipynb](https://github.com/MU-HPDI/RespHealthFeatureExtractor/blob/main/Example/Example.ipynb) Jupyter notebook under Example folder.
 ````
