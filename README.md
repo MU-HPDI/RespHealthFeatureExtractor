@@ -14,8 +14,6 @@ pip install ./dist/*
 
 ## 3 Usage
 ````
-For usage please refer to the [Example.ipynb]() Jupyter notebook under Example folder.
-<pre>
-<a href="[https://www.npmjs.com/package/Example](https://github.com/MU-HPDI/RespHealthFeatureExtractor/blob/main/Example/Example.ipynb)" title="Example Jupyter">Example</a>'
-</pre>
+For usage please refer to the Example.ipynb Jupyter notebook under Example folder.
+
 ````
